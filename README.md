@@ -1,11 +1,11 @@
 # 최영재 (cyj0110)
 
 **OT/ICS 공격 시나리오를 설계하고, 탐지까지 검증합니다.**
-
+<br>
 I design OT/ICS attack scenarios and test whether they get detected.
 
 컴퓨터공학 · 스마트제조 ICT 전공 · 군 복무 중, 2028년 7월부터 합류 가능
-
+<br>
 Computer Engineering & Smart Manufacturing ICT · currently serving in the military, available from July 2028
 
 ---
@@ -36,9 +36,8 @@ Computer Engineering & Smart Manufacturing ICT · currently serving in the milit
 
 ## 자격 · Certifications
 
-정보처리기사 · ADsP · 컴퓨터활용능력 1급
-
-준비 중 / In progress: 정보보안기사, OSCP
+- 정보처리기사 · ADsP · 컴퓨터활용능력 1급
+- 준비 중 / In progress: 정보보안기사, OSCP
 
 ## 링크 · Links
 
